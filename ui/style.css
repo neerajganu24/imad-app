@@ -3,6 +3,7 @@ body {
     background-color: lightskyblue;
     margin-top: 75px;
     border: 1px solid black;
+    padding:5px;
 }
 
 .center {
